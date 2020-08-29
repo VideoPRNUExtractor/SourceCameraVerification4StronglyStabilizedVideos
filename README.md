@@ -1,4 +1,4 @@
-# Source Camera Verification for Strongly Stabilized Videos
+# Source Camera Verification from Strongly Stabilized Videos
 
 This repository contains two newly generated datasets, pre-calculated transforms of VISION dataset, and the implementation for the proposed approach in Ref. [1].
 
